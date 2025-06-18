@@ -10,7 +10,7 @@ namespace GunGame
 
         public void FireWeapon()
         {
-            guns[0] FireWeapon();
+            
         }
     }
 }
